@@ -25,10 +25,10 @@ Please, Turn on Less Secure App Logins from your Gamil Account. MBomb means Mail
 # Legal disclaimer:
 It only works through Gmail, it does not identify the user as a spammer in any way, it is only designed to send multiple messages at once. Using Gmail SMTP. We are not responsible for any abuse or damage caused by this program. Use your own risks!
 
-# Modified by @Engine Ripper
+# Modified by @Ahmed Samir
 
 For any kind of help, support, suggetion and request ask in my Telegram Group :
-https://t.me/AD0000000
+https://t.me/Makavael
 
 ## Follow on:
 <p align="left">
